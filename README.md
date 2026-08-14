@@ -193,13 +193,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 
 ## OUTPUT
+<img width="425" height="757" alt="image" src="https://github.com/user-attachments/assets/0c94759b-e81b-4c41-8313-407041d69b8b" />
 
-<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/700739ac-74cf-48fd-8506-b39616f33e1e" />
-<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/6ac089f6-5f54-49b6-905b-64427b02f1f6" />
-
-
-
-
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/aeb97251-42a1-4e1e-b5e3-071f8cf268a1" />
 
 
 ## Result
